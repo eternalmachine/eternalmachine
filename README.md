@@ -1,1 +1,1 @@
-- 👋 Hi
+- 👋 Hi, this is sky kung. I am a media artist and sound artist based in Hong Kong. I use this space for archiving and sharing my codes.
